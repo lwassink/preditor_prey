@@ -1,4 +1,4 @@
-#simulate preditor/prey populations over time using discretized Lotka-Voltera equations
+# simulate preditor/prey populations over time using discretized Lotka-Voltera equations
 
 import matplotlib.pyplot as pplot # import the graphing function
 import argparse # for a flexible comandline interface
